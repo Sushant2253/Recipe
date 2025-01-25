@@ -1,9 +1,5 @@
 # Recipe Finder
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![Contributors](https://img.shields.io/badge/contributors-1-orange.svg)
-
 ## Overview
 
 **Recipe Finder** is a modern web application built using **Vite + React**. It leverages the **Spoonacular API** to fetch recipes dynamically. The application offers users a seamless experience to explore recipes categorized under sections like:
@@ -87,28 +83,6 @@ Follow these steps to set up the project locally:
 ![Recipe Details Screenshot](link_to_recipe_details_screenshot)
 
 ---
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Submit a pull request.
-
----
-
 
 ## Contact
 
