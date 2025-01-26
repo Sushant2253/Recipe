@@ -39,7 +39,7 @@ Clicking on any cuisine option fetches and displays recipes specific to that cui
 
 - **Frontend**: Vite, React
 - **API Integration**: Spoonacular API
-- **Styling**: CSS, TailwindCSS, Styled-Components
+- **Styling**: CSS, Styled-Components
 - **Build Tool**: Vite
 - **Animation**: Framer Motion
 - **Routing**: React Router
