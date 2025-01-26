@@ -1,5 +1,6 @@
 # Recipe Finder
 
+
 ## Overview
 
 **Recipe Finder** is a modern web application built using **Vite + React**. It leverages the **Spoonacular API** to fetch recipes dynamically. The application offers users a seamless experience to explore recipes categorized under sections like:
@@ -10,13 +11,22 @@
 - Breakfast
 - Drinks
 
-With its user-friendly search functionality, users can search for recipes based on their preferences. Each recipe is displayed as an interactive card, and clicking on a card opens detailed information about the recipe.
+With its user-friendly search functionality, users can search for recipes based on their preferences. Each recipe is displayed as an interactive card, and clicking on a card opens detailed information about the recipe. Additionally, users can explore recipes by selecting cuisine options such as:
+
+- Indian
+- Italian
+- American
+- Thai
+- Japanese
+
+Clicking on any cuisine option fetches and displays recipes specific to that cuisine.
 
 ---
 
 ## Features
 
 - **Categorized Recipes**: Browse recipes by categories such as popular, vegetarian, main course, breakfast, and drinks.
+- **Cuisine Options**: Explore recipes by selecting from cuisines like Indian, Italian, American, Thai, and Japanese.
 - **Search Functionality**: Search for recipes using keywords.
 - **Detailed Recipe View**: Each card opens a detailed page showing:
   - **Information**: Summary and detailed recipe instructions.
@@ -73,7 +83,8 @@ Follow these steps to set up the project locally:
 1. Open your browser and go to `http://localhost:3000`.
 2. Use the navigation menu to explore different recipe categories.
 3. Use the search bar on the home page to find recipes by keyword.
-4. Click on any recipe card to view detailed information about the recipe and ingredients.
+4. Select a cuisine option (e.g., Indian, Italian, etc.) to view recipes from that specific cuisine.
+5. Click on any recipe card to view detailed information about the recipe and ingredients.
 
 ---
 
@@ -83,6 +94,7 @@ Follow these steps to set up the project locally:
 ![Recipe Details Screenshot](link_to_recipe_details_screenshot)
 
 ---
+
 
 ## Contact
 
