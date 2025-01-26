@@ -90,8 +90,15 @@ Follow these steps to set up the project locally:
 
 ## Screenshots
 
-![Homepage Screenshot](link_to_homepage_screenshot)
-![Recipe Details Screenshot](link_to_recipe_details_screenshot)
+1. Home Page
+![Homepage Screenshot](https://github.com/Sushant2253/Recipe/blob/main/Recipe-Home.png)
+
+2. Recipe Details
+![Recipe Details Screenshot](https://github.com/Sushant2253/Recipe/blob/main/Recipe-Details.png)
+
+3. Cuisine
+![Cuisine Screenshot](https://github.com/Sushant2253/Recipe/blob/main/Recipe-Cuisine.png)
+
 
 ---
 
