@@ -23,6 +23,12 @@ Clicking on any cuisine option fetches and displays recipes specific to that cui
 
 ---
 
+## Live Preview
+
+Check out the live preview of the application here: [Recipe Finder Live](https://recipe-finder-app-swart.vercel.app/)
+
+---
+
 ## Features
 
 - **Categorized Recipes**: Browse recipes by categories such as popular, vegetarian, main course, breakfast, and drinks.
